@@ -1,0 +1,22 @@
+h2{
+color: blue;
+justify-content: center;
+display: flex;
+
+}
+label{
+    color: crimson;
+}    
+
+.button .btn{ 
+    width: 100px;
+    height: 40px;
+    font-weight: 500;
+    background: #cf4646;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+    
