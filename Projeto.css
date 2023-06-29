@@ -1,0 +1,17 @@
+nav{
+    color: blue;
+    
+}
+
+nav ul li a{
+    color: rgb(50, 30, 233);
+    justify-items: end;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-direction: row;
+    
+}
+img{
+    height: 900px;
+    width: 1500px;
+}
