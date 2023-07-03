@@ -2,16 +2,27 @@ nav{
     color: blue;
     
 }
+div nav ul{
+    color: brown;
+    justify-content: space-around;
+    display: flex;
 
-nav ul li a{
-    color: rgb(50, 30, 233);
-    justify-items: end;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-direction: row;
-    
 }
-img{
+   
+    img{
     height: 900px;
     width: 1500px;
 }
+h2{
+    justify-content: center;
+    display: flex;
+
+}
+
+.container{
+   display: flex;
+   justify-content: space-around;
+}
+    
+    
+    
